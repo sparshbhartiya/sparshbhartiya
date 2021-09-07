@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sparshbhartiya
-- 👀 I’m interested in full stack engineering and machine learning
-- 🌱 I’m currently learning angular
+- 👋 Hi, I’m Sparsh Bhartiya
+- 👀 I’m a in full stack engineer who is also interested in machine learning
+- 🌱 I’m currently learning angular2
 - 📫 To reach me drop a mail on sporsh21@gmail.com 
 
 <!---
